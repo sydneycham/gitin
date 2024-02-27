@@ -1,0 +1,4 @@
+Classes:
+Motif (what we're searching for)
+Sequence (what we're lookin in)
+Motif finder (to search for the motif in the sequence)
